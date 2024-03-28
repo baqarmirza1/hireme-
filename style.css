@@ -1,0 +1,72 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+    background-color: #fbe5f6;
+}
+
+h1{
+  text-align: center;
+}
+
+.img1{
+  border-style: double; 
+  border-width: 10px;
+  border-color: #d5ccff;
+  border-radius: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 17%;
+}
+
+mark{
+  background-color: #d5ccff;
+  color: black;
+}
+
+.h1{
+  font-size: 20px;
+font-family: 'Caveat', cursive; 
+font-family: 'Croissant One', cursive;
+}
+
+.h11{
+font-family: 'Caveat', cursive;
+font-family: 'Croissant One', cursive;
+  font-size: 50px;
+  text-decoration-line: underline;
+}
+
+.heading{
+    text-decoration-line: underline;
+  text-decoration-style: double;
+}
+
+h2{
+  font-size: 20px;
+font-family: 'Dela Gothic One', cursive;
+}
+
+.img2{
+    border-style: double; 
+  border-width: 10px;
+  border-color: #d5ccff;
+  width: 500px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.heading2{
+  font-family: 'Satisfy', cursive;
+  text-decoration: underline;
+  font-size: 40px;
+}
+
+.yur{
+padding-left: 80px;
+padding-right: 80px;
+}
